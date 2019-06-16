@@ -1,3 +1,5 @@
+# Project-specific settings
+config.yaml
 
 # Created by https://www.gitignore.io/api/python,code,macos,windows
 # Edit at https://www.gitignore.io/?templates=python,code,macos,windows
